@@ -17,4 +17,4 @@ Things to be still done:
 * UI tests going through each feature
 * polish the UI because it's kind of rough
 
-After all I think I enjoyed working on the test, thanks guys!
+After all that I think I still enjoyed working on the test, thanks guys!

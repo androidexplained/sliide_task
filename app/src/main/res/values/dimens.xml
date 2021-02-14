@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_padding_micro">4dp</dimen>
+    <dimen name="margin_padding_small">8dp</dimen>
+    <dimen name="margin_padding_medium">16dp</dimen>
+    <dimen name="user_view_holder_height">128dp</dimen>
+    <dimen name="user_view_holder_created_width">92dp</dimen>
+</resources>
